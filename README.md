@@ -1,4 +1,4 @@
-# Synchromedia image processing research
+# Synchromedia image processing catalogue
 
 - **Scope:** Image processing and document recognition research by Synchromedia students.
 - **Student pages:** Original projects, laboratory forks, publications, and related research material.
