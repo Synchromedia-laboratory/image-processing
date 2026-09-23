@@ -1,6 +1,8 @@
 # Synchromedia image processing research
 
-A catalog of image processing and document recognition research carried out by Synchromedia students. Each student page links to original projects, laboratory forks when available, and related research material. Code is maintained in separate repositories so that project histories and contributor attribution remain intact.
+- **Scope:** Image processing and document recognition research by Synchromedia students.
+- **Student pages:** Original projects, laboratory forks, publications, and related research material.
+- **Code organization:** Separate repositories preserve project histories and contributor attribution.
 
 ## Students and projects
 
@@ -10,10 +12,19 @@ A catalog of image processing and document recognition research carried out by S
 
 ## Adding a student
 
-Create a page in `students/` with the student's name, research context, project descriptions, original repository links, verified laboratory fork links, publications, and the source revisions reviewed. Add a row to the index above. Record missing information explicitly rather than inferring dates, supervisors, or publication details.
+- **Create a student page:** Include the student’s name, research context, and project descriptions in `students/`.
+- **Start with a summary table:** Project, fork and original repository links, paper link, publication date, paper authors/contributors, publication status, and repository contents.
+- **Use clear project sections:** Short bullets with bold labels for code, publications, attribution, and preservation details.
+- **Keep credits precise:** Distinguish paper authors from code contributors; label preprints explicitly.
+- **Record provenance:** Include reviewed source revisions and verification dates.
+- **Update the index:** Add the student to the table above.
+- **Flag missing details:** Do not infer study dates, supervisors, or publication metadata.
 
 ## Attribution and preservation
 
-Keep original author credits, contributor histories, citation instructions, and licenses in each code repository. Laboratory hosting does not imply sole authorship or change a project's license. The license of this catalog does not relicense linked code, publications, datasets, or model weights.
-
-A fork records repository content; externally hosted weights, datasets, and release assets may need separate preservation. Record the reviewed source commit and date in each student page, and distinguish an available implementation from a project announcement.
+- **Author credit:** Preserve original author names, contributor histories, and citation instructions.
+- **Licenses:** Retain each project’s license; laboratory hosting does not imply sole authorship or change licensing.
+- **Catalog scope:** This catalog’s license does not relicense linked code, publications, datasets, or model weights.
+- **External assets:** Weights, datasets, and release assets outside Git may need separate preservation.
+- **Verification:** Record each reviewed source commit and date.
+- **Code availability:** Distinguish available implementations from project announcements.
